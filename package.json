@@ -1,0 +1,17 @@
+{
+  "name": "eth102",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "truffle test",
+    "ganache": "ganache-cli"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ganache-cli": "^6.12.2",
+    "truffle": "^5.5.28"
+  }
+}
